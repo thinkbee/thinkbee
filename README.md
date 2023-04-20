@@ -1,4 +1,14 @@
-### Hi there 👋
+# 나는 누구인가요
+
+고강태 강사는 여러 분야에서 강의를 하고 있읍니다.
+
+<img src='https://src.hidoc.co.kr/image/lib/2022/5/12/1652337370806_0.jpg'>
+
+
+- 🔭 I’m currently working on IT분야 강의
+- 👯 I’m looking to collaborate on 대시 프로젝트
+
+## Hi there 👋
 
 <!--
 **thinkbee/thinkbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
